@@ -1,2 +1,2 @@
-# DuoAuto
-Script to automate the gaining of XP for Duolingo
+# duoHacko
+A script to allow me to automate gaining XP on Duolingo

@@ -1,0 +1,2492 @@
+{
+	"id": "aq5AxEZRTMN0Ws91",
+	"learningLanguage": "id",
+	"fromLanguage": "en",
+	"type": "LEXEME_SKILL_LEVEL_PRACTICE",
+	"challenges": [{
+		"prompt": "apple",
+		"choices": [{
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/cd1ecb710774af3d4904673137972ef3",
+			"phrase": "apel",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/cd1ecb710774af3d4904673137972ef3",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/21557015e016652a58c101c99e7ca890",
+			"hint": "apple"
+		}, {
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+			"phrase": "air",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/b2e60ea638c37930fdd5e236ac3ace22",
+			"hint": "water"
+		}, {
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/0131443731d05ac52199b3317eda2aab",
+			"phrase": "jeruk",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/0131443731d05ac52199b3317eda2aab",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/e583242232aafa91bb712ae4fe6bd361",
+			"hint": "orange"
+		}],
+		"correctIndex": 0,
+		"type": "select",
+		"id": "4cdff2ad87ff4158ab88a5d17fdc031a",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"birdbrain_target": 0.95,
+			"birdbrain_source": "birdbrain_v2",
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"birdbrain_probability": 0.9943263,
+			"content_length": 4,
+			"tagged_kc_ids": ["ffd1c18dff303827bb5da81fcddc35c7"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"birdbrain_probability": 0.9943263,
+				"birdbrain_target": 0.95,
+				"birdbrain_source": "birdbrain_v2",
+				"content_length": 4
+			},
+			"highlight": [],
+			"hint": "apple",
+			"phrase": "apel",
+			"solution_key": "ffd1c18dff303827bb5da81fcddc35c7",
+			"source_language": "id",
+			"specific_type": "name_example",
+			"language": "id",
+			"lexeme_ids_to_update": ["ffd1c18dff303827bb5da81fcddc35c7"],
+			"type": "select",
+			"lexemes_to_update": ["ffd1c18dff303827bb5da81fcddc35c7"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"challengeGeneratorIdentifier": {
+			"specificType": "name_example",
+			"generatorId": "ffd1c18dff303827bb5da81fcddc35c7"
+		},
+		"timeTaken": 176819,
+		"correct": true,
+		"guess": "0"
+	}, {
+		"prompt": "Saya makan.",
+		"correctTokens": ["Saya", "makan"],
+		"wrongTokens": ["air", "minum", "dan", "mau"],
+		"choices": [{
+			"text": "Saya",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/9c79053b2961253ee816a91b7ec15477"
+		}, {
+			"text": "makan",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/368bfd1e392352d44835353cf137eda2"
+		}, {
+			"text": "air",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/221bf65180d6a8fe1054c2e61cb11b94"
+		}, {
+			"text": "minum",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/4fc4436a75d1f9029c4094a2bcd5e4ac"
+		}, {
+			"text": "dan",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/d4d73f8b1054254211d1b824c79c7ef3"
+		}, {
+			"text": "mau",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/89c8412c3fe772da9ff98e871b617c94"
+		}],
+		"correctIndices": [0, 1],
+		"solutionTranslation": "I eat.",
+		"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/073b724c985f767bb2e3767ec860704b",
+		"slowTts": "https://d1vq87e9lcf771.cloudfront.net/eka/49d7a1867eb916657130c690403a6ac4",
+		"type": "listenTap",
+		"id": "876656375d24420388d3f6a2dcfc802e",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"grading_graph_size": 208,
+			"birdbrain_target": 0.95,
+			"num_tap_distractors": 4,
+			"birdbrain_source": "birdbrain_v2",
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"birdbrain_probability": 0.9570435,
+			"content_length": 11,
+			"tagged_kc_ids": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"birdbrain_probability": 0.9570435,
+				"birdbrain_target": 0.95,
+				"birdbrain_source": "birdbrain_v2",
+				"num_tap_distractors": 4,
+				"content_length": 11
+			},
+			"highlight": [],
+			"language": "id",
+			"language_name": "Indonesian",
+			"solution_key": "76602fda62f57269c0bb4975f6adf17e",
+			"solution_translation": "I eat.",
+			"source_language": "id",
+			"text": "Saya makan.",
+			"tokens": ["Saya", "makan"],
+			"wrong_tokens": ["air", "minum", "dan", "mau"],
+			"specific_type": "listen_tap",
+			"lexeme_ids_to_update": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"],
+			"type": "listen_tap",
+			"lexemes_to_update": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"sentenceDiscussionId": "76602fda62f57269c0bb4975f6adf17e",
+		"challengeGeneratorIdentifier": {
+			"specificType": "listen_tap",
+			"generatorId": "76602fda62f57269c0bb4975f6adf17e"
+		},
+		"skipped": true,
+		"timeTaken": 1090,
+		"blameMessage": "No listening exercises.",
+		"correct": true,
+		"guess": ""
+	}, {
+		"prompt": "Saya makan.",
+		"correctSolutions": ["I eat."],
+		"compactTranslations": ["I eat.", "I ate.", "I [am/was] eating."],
+		"correctTokens": ["I", "eat"],
+		"wrongTokens": ["like", "want", "orange", "apples"],
+		"choices": [{
+			"text": "I"
+		}, {
+			"text": "eat"
+		}, {
+			"text": "like"
+		}, {
+			"text": "want"
+		}, {
+			"text": "orange"
+		}, {
+			"text": "apples"
+		}],
+		"correctIndices": [0, 1],
+		"sourceLanguage": "id",
+		"targetLanguage": "en",
+		"taggedKcIds": [{
+			"legacyId": "f6819af352d4394d53f814610dc4dca6",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "73a866bd4f1e664f0642a530a1eb303d",
+			"kcTypeStr": "lex"
+		}],
+		"tokens": [{
+			"value": "Saya",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/9c79053b2961253ee816a91b7ec15477",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "I"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "me"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "my"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "makan",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/368bfd1e392352d44835353cf137eda2",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "eat"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "am eating"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "ate"
+					}]
+				]
+			}
+		}, {
+			"value": "."
+		}],
+		"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/073b724c985f767bb2e3767ec860704b",
+		"character": {
+			"url": "https://d2pur3iezf4d1j.cloudfront.net/images/122480f3b6c86522d5715c920764dc44",
+			"image": {
+				"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/122480f3b6c86522d5715c920764dc44",
+				"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/ad178aebb8dfd890ab602527440e685c"
+			},
+			"gender": "FEMALE",
+			"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Gma_CORRECT_Cropped.json",
+			"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Gma_INCORRECT_Cropped.json",
+			"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lucy_IDLE_Cropped.json",
+			"name": "Lucy",
+			"riveAnimation": {
+				"artBoardName": "Character",
+				"correctStateName": "Correct",
+				"incorrectStateName": "Incorrect",
+				"notSetStateName": "Reset",
+				"outfitInputName": "Outfit",
+				"stateMachineName": "InLesson",
+				"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/9dc14f11adf2a069f365a9c2715b4b72.riv"
+			}
+		},
+		"type": "translate",
+		"id": "974dc416ccc54d5d854ec3bf402ba9a4",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"grading_graph_size": 1706,
+			"num_tap_distractors": 4,
+			"num_correct_answer_tokens": 2,
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"tagged_kc_ids": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"num_tap_distractors": 4,
+				"num_correct_answer_tokens": 2
+			},
+			"highlight": [],
+			"sentence": "Saya makan.",
+			"solution_key": "76602fda62f57269c0bb4975f6adf17e",
+			"source_language": "id",
+			"target_language": "en",
+			"tokens": ["I", "eat"],
+			"translation": "I eat.",
+			"wrong_tokens": ["like", "want", "orange", "apples"],
+			"text": "Saya makan.",
+			"specific_type": "tap",
+			"lexeme_ids_to_update": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"],
+			"type": "translate",
+			"lexemes_to_update": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"sentenceDiscussionId": "76602fda62f57269c0bb4975f6adf17e",
+		"challengeGeneratorIdentifier": {
+			"specificType": "tap",
+			"generatorId": "76602fda62f57269c0bb4975f6adf17e"
+		},
+		"worldCharacterShown": true,
+		"timeTaken": 3180,
+		"correct": true,
+		"guess": "I eat"
+	}, {
+		"prompt": "orange",
+		"choices": [{
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/0131443731d05ac52199b3317eda2aab",
+			"phrase": "jeruk",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/0131443731d05ac52199b3317eda2aab",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/e583242232aafa91bb712ae4fe6bd361",
+			"hint": "orange"
+		}, {
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+			"phrase": "air",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/b2e60ea638c37930fdd5e236ac3ace22",
+			"hint": "water"
+		}, {
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/cd1ecb710774af3d4904673137972ef3",
+			"phrase": "apel",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/cd1ecb710774af3d4904673137972ef3",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/0b8698829d66419e86f7e4076f61c613",
+			"hint": "apple"
+		}],
+		"correctIndex": 0,
+		"type": "select",
+		"id": "ea079f9fbfbf4325ad6dcd5f29c8b302",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"birdbrain_target": 0.95,
+			"birdbrain_source": "birdbrain_v2",
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"birdbrain_probability": 0.9849878,
+			"content_length": 5,
+			"tagged_kc_ids": ["5e7ab2125c916688eab3583c7a295a48"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"birdbrain_probability": 0.9849878,
+				"birdbrain_target": 0.95,
+				"birdbrain_source": "birdbrain_v2",
+				"content_length": 5
+			},
+			"highlight": [],
+			"hint": "orange",
+			"phrase": "jeruk",
+			"solution_key": "5e7ab2125c916688eab3583c7a295a48",
+			"source_language": "id",
+			"specific_type": "name_example",
+			"language": "id",
+			"lexeme_ids_to_update": ["5e7ab2125c916688eab3583c7a295a48"],
+			"type": "select",
+			"lexemes_to_update": ["5e7ab2125c916688eab3583c7a295a48"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"challengeGeneratorIdentifier": {
+			"specificType": "name_example",
+			"generatorId": "5e7ab2125c916688eab3583c7a295a48"
+		},
+		"timeTaken": 1278,
+		"correct": true,
+		"guess": "0"
+	}, {
+		"prompt": "Saya punya air.",
+		"correctSolutions": ["I have water."],
+		"compactTranslations": ["I have water.", "I have got water.", "I [have/own/possess] water.", "I [have/have got/possess] [the/some/] water."],
+		"correctTokens": ["I", "have", "water"],
+		"wrongTokens": ["drink", "milk", "you", "The"],
+		"choices": [{
+			"text": "I"
+		}, {
+			"text": "have"
+		}, {
+			"text": "water"
+		}, {
+			"text": "drink"
+		}, {
+			"text": "milk"
+		}, {
+			"text": "you"
+		}, {
+			"text": "The"
+		}],
+		"correctIndices": [0, 1, 2],
+		"sourceLanguage": "id",
+		"targetLanguage": "en",
+		"taggedKcIds": [{
+			"legacyId": "f6819af352d4394d53f814610dc4dca6",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "2163279839037ce9c20ad5eeafb358f3",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "9f724dd75011977323c2f2d12a3d74a5",
+			"kcTypeStr": "lex"
+		}],
+		"tokens": [{
+			"value": "Saya",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/9c79053b2961253ee816a91b7ec15477",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "I"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "me"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "my"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "punya",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/c3bf173171f33c1c6c2aa3ec174046e6",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "have"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "own"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "possess"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "air",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/221bf65180d6a8fe1054c2e61cb11b94",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "water"
+					}]
+				]
+			}
+		}, {
+			"value": "."
+		}],
+		"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/e12ff7527c78890b4d486944e00b28b2",
+		"character": {
+			"url": "https://d2pur3iezf4d1j.cloudfront.net/images/861252b26a49194f2a98ee58e7c373f8",
+			"image": {
+				"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/861252b26a49194f2a98ee58e7c373f8",
+				"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/81ca92172d70599306b16bcb87799195"
+			},
+			"gender": "FEMALE",
+			"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Lily_CORRECT_Cropped_BigWhoop.json",
+			"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Violet_INCORRECT_Cropped.json",
+			"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lily_IDLE_Cropped.json",
+			"name": "Lily",
+			"riveAnimation": {
+				"artBoardName": "Character",
+				"correctStateName": "Correct",
+				"incorrectStateName": "Incorrect",
+				"notSetStateName": "Reset",
+				"outfitInputName": "Outfit",
+				"stateMachineName": "InLesson",
+				"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/1bcefa41b531daf332554882d1fa6adc.riv"
+			}
+		},
+		"type": "translate",
+		"id": "919a4404488c48eaabcaa142320a810a",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"grading_graph_size": 3151,
+			"birdbrain_target": 0.95,
+			"num_tap_distractors": 4,
+			"birdbrain_source": "birdbrain_v2",
+			"num_correct_answer_tokens": 3,
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"birdbrain_probability": 0.95380694,
+			"content_length": 15,
+			"tagged_kc_ids": ["f6819af352d4394d53f814610dc4dca6", "2163279839037ce9c20ad5eeafb358f3", "9f724dd75011977323c2f2d12a3d74a5"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"birdbrain_probability": 0.95380694,
+				"birdbrain_target": 0.95,
+				"birdbrain_source": "birdbrain_v2",
+				"num_tap_distractors": 4,
+				"content_length": 15,
+				"num_correct_answer_tokens": 3
+			},
+			"highlight": [],
+			"sentence": "Saya punya air.",
+			"solution_key": "f5682ff657fc00f6b400e63b5c6b6477",
+			"source_language": "id",
+			"target_language": "en",
+			"tokens": ["I", "have", "water"],
+			"translation": "I have water.",
+			"wrong_tokens": ["drink", "milk", "you", "The"],
+			"text": "Saya punya air.",
+			"specific_type": "tap",
+			"lexeme_ids_to_update": ["f6819af352d4394d53f814610dc4dca6", "2163279839037ce9c20ad5eeafb358f3", "9f724dd75011977323c2f2d12a3d74a5"],
+			"type": "translate",
+			"lexemes_to_update": ["f6819af352d4394d53f814610dc4dca6", "2163279839037ce9c20ad5eeafb358f3", "9f724dd75011977323c2f2d12a3d74a5"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"sentenceDiscussionId": "f5682ff657fc00f6b400e63b5c6b6477",
+		"challengeGeneratorIdentifier": {
+			"specificType": "tap",
+			"generatorId": "f5682ff657fc00f6b400e63b5c6b6477"
+		},
+		"worldCharacterShown": true,
+		"timeTaken": 7235,
+		"correct": true,
+		"guess": "I have water"
+	}, {
+		"prompt": "cat",
+		"choices": [{
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/cd1ecb710774af3d4904673137972ef3",
+			"phrase": "apel",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/cd1ecb710774af3d4904673137972ef3",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/21557015e016652a58c101c99e7ca890",
+			"hint": "apple"
+		}, {
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/9aa862ebf2f8636383e54ce23d340db9",
+			"phrase": "kucing",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/9aa862ebf2f8636383e54ce23d340db9",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/55496f50f6c0a172f9aa4a701b9e9e10",
+			"hint": "cat"
+		}, {
+			"image": "https://d2pur3iezf4d1j.cloudfront.net/images/8a0bf2fda530b50c833af5ce0c4ab30f",
+			"phrase": "hitam",
+			"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/8a0bf2fda530b50c833af5ce0c4ab30f",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/1a2e4c85ab3216ec56435746200e4ce7",
+			"hint": "black"
+		}],
+		"correctIndex": 1,
+		"type": "select",
+		"id": "f7502d0b2cea49109c21b39ac14c8502",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"birdbrain_target": 0.95,
+			"birdbrain_source": "birdbrain_v2",
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"birdbrain_probability": 0.97985464,
+			"content_length": 6,
+			"tagged_kc_ids": ["e0153bafefabee09d4eca6e5da227e43"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"birdbrain_probability": 0.97985464,
+				"birdbrain_target": 0.95,
+				"birdbrain_source": "birdbrain_v2",
+				"content_length": 6
+			},
+			"highlight": [],
+			"hint": "cat",
+			"phrase": "kucing",
+			"solution_key": "e0153bafefabee09d4eca6e5da227e43",
+			"source_language": "id",
+			"specific_type": "name_example",
+			"language": "id",
+			"lexeme_ids_to_update": ["e0153bafefabee09d4eca6e5da227e43"],
+			"type": "select",
+			"lexemes_to_update": ["e0153bafefabee09d4eca6e5da227e43"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"challengeGeneratorIdentifier": {
+			"specificType": "name_example",
+			"generatorId": "e0153bafefabee09d4eca6e5da227e43"
+		},
+		"timeTaken": 1772,
+		"correct": true,
+		"guess": "1"
+	}, {
+		"prompt": "Saya mau apel.",
+		"correctSolutions": ["I want an apple."],
+		"compactTranslations": ["I want an apple.", "I [want/would like] [an/the] apple.", "I [want/would like] [the/some/] apples."],
+		"correctTokens": ["I", "want", "an", "apple"],
+		"wrongTokens": ["apples", "oranges", "like", "orange"],
+		"choices": [{
+			"text": "I"
+		}, {
+			"text": "want"
+		}, {
+			"text": "an"
+		}, {
+			"text": "apple"
+		}, {
+			"text": "apples"
+		}, {
+			"text": "oranges"
+		}, {
+			"text": "like"
+		}, {
+			"text": "orange"
+		}],
+		"correctIndices": [0, 1, 2, 3],
+		"sourceLanguage": "id",
+		"targetLanguage": "en",
+		"taggedKcIds": [{
+			"legacyId": "f6819af352d4394d53f814610dc4dca6",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "54a48e05c068c75795ba9eb4fbb5624a",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "ffd1c18dff303827bb5da81fcddc35c7",
+			"kcTypeStr": "lex"
+		}],
+		"tokens": [{
+			"value": "Saya",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/a8a0a3a821cbc9873d17630c63be9911",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "I"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "me"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "my"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "mau",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/e832cb982c564c8e213011d0af80182a",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "want"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "wants"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "wish"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "apel",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/0b8698829d66419e86f7e4076f61c613",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "(an) apple"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "apple"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "apples"
+					}]
+				]
+			}
+		}, {
+			"value": "."
+		}],
+		"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/0befe54483b52ada60457b6bed4030d9",
+		"character": {
+			"url": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+			"image": {
+				"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+				"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
+			},
+			"gender": "MALE",
+			"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_CORRECT_Cropped.json",
+			"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_INCORRECT_Cropped.json",
+			"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_IDLE_Cropped.json",
+			"name": "Eddy",
+			"riveAnimation": {
+				"artBoardName": "Character",
+				"correctStateName": "Correct",
+				"incorrectStateName": "Incorrect",
+				"notSetStateName": "Reset",
+				"outfitInputName": "Outfit",
+				"stateMachineName": "InLesson",
+				"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/6a8a02dccb502b2de80f8e0040de19bb.riv"
+			}
+		},
+		"type": "translate",
+		"id": "34750cfd97e5422083c1739634e93766",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"grading_graph_size": 1723,
+			"birdbrain_target": 0.95,
+			"num_tap_distractors": 4,
+			"birdbrain_source": "birdbrain_v2",
+			"num_correct_answer_tokens": 4,
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"birdbrain_probability": 0.95237774,
+			"content_length": 14,
+			"tagged_kc_ids": ["f6819af352d4394d53f814610dc4dca6", "54a48e05c068c75795ba9eb4fbb5624a", "ffd1c18dff303827bb5da81fcddc35c7"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"birdbrain_probability": 0.95237774,
+				"birdbrain_target": 0.95,
+				"birdbrain_source": "birdbrain_v2",
+				"num_tap_distractors": 4,
+				"content_length": 14,
+				"num_correct_answer_tokens": 4
+			},
+			"highlight": [],
+			"sentence": "Saya mau apel.",
+			"solution_key": "ad0aac9ab712fb203a2165eec62d43cf",
+			"source_language": "id",
+			"target_language": "en",
+			"tokens": ["I", "want", "an", "apple"],
+			"translation": "I want an apple.",
+			"wrong_tokens": ["apples", "oranges", "like", "orange"],
+			"text": "Saya mau apel.",
+			"specific_type": "tap",
+			"lexeme_ids_to_update": ["f6819af352d4394d53f814610dc4dca6", "54a48e05c068c75795ba9eb4fbb5624a", "ffd1c18dff303827bb5da81fcddc35c7"],
+			"type": "translate",
+			"lexemes_to_update": ["f6819af352d4394d53f814610dc4dca6", "54a48e05c068c75795ba9eb4fbb5624a", "ffd1c18dff303827bb5da81fcddc35c7"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"sentenceDiscussionId": "ad0aac9ab712fb203a2165eec62d43cf",
+		"challengeGeneratorIdentifier": {
+			"specificType": "tap",
+			"generatorId": "ad0aac9ab712fb203a2165eec62d43cf"
+		},
+		"worldCharacterShown": true,
+		"timeTaken": 3590,
+		"closestSolution": "I want apples.",
+		"correct": true,
+		"guess": "I want apples"
+	}, {
+		"prompt": "Saya minum susu, kamu minum air.",
+		"correctSolutions": ["I drink milk, you drink water."],
+		"compactTranslations": ["I drink milk, you drink water.", "I [drink/drank/am drinking] [/a] milk, you [drink/drank/are drinking] [/a] water."],
+		"correctTokens": ["I", "drink", "milk", "you", "drink", "water"],
+		"wrongTokens": ["to", "have", "eat", "apple"],
+		"choices": [{
+			"text": "I"
+		}, {
+			"text": "drink"
+		}, {
+			"text": "milk"
+		}, {
+			"text": "you"
+		}, {
+			"text": "drink"
+		}, {
+			"text": "water"
+		}, {
+			"text": "to"
+		}, {
+			"text": "have"
+		}, {
+			"text": "eat"
+		}, {
+			"text": "apple"
+		}],
+		"correctIndices": [0, 1, 2, 3, 4, 5],
+		"sourceLanguage": "id",
+		"targetLanguage": "en",
+		"taggedKcIds": [{
+			"legacyId": "f6819af352d4394d53f814610dc4dca6",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "0e241d40ba4063dfd8945c6ba11a1380",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "d8ea4af755d136124e61f939e84a673d",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "8732721164c1b018aeefdddf53a79498",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "0e241d40ba4063dfd8945c6ba11a1380",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "9f724dd75011977323c2f2d12a3d74a5",
+			"kcTypeStr": "lex"
+		}],
+		"tokens": [{
+			"value": "Saya",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/9c79053b2961253ee816a91b7ec15477",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "I"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "me"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "my"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "minum",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/4fc4436a75d1f9029c4094a2bcd5e4ac",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "drink"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "to drink"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "have a drink"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "susu",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/88c3ca3e5d67376f183f5b8f5c42dd8c",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "milk"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "the milk"
+					}]
+				]
+			}
+		}, {
+			"value": ","
+		}, {
+			"value": " "
+		}, {
+			"value": "kamu",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/139429063305e3c712d82b7f08136fac",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "you"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "your"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "minum",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/4fc4436a75d1f9029c4094a2bcd5e4ac",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "drink"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "to drink"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "have a drink"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "air",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/221bf65180d6a8fe1054c2e61cb11b94",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "water"
+					}]
+				]
+			}
+		}, {
+			"value": "."
+		}],
+		"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/26f70c00b0c90e5003d2fef2d5d620fa",
+		"character": {
+			"url": "https://d2pur3iezf4d1j.cloudfront.net/images/861252b26a49194f2a98ee58e7c373f8",
+			"image": {
+				"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/861252b26a49194f2a98ee58e7c373f8",
+				"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/81ca92172d70599306b16bcb87799195"
+			},
+			"gender": "FEMALE",
+			"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Violet_CORRECT_Cropped.json",
+			"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Violet_INCORRECT_Cropped.json",
+			"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lily_IDLE_Cropped.json",
+			"name": "Lily",
+			"riveAnimation": {
+				"artBoardName": "Character",
+				"correctStateName": "Correct",
+				"incorrectStateName": "Incorrect",
+				"notSetStateName": "Reset",
+				"outfitInputName": "Outfit",
+				"stateMachineName": "InLesson",
+				"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/1bcefa41b531daf332554882d1fa6adc.riv"
+			}
+		},
+		"type": "translate",
+		"id": "6c3c867c1d444cf9a1695a0e6097bb35",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"grading_graph_size": 3019,
+			"num_tap_distractors": 4,
+			"num_correct_answer_tokens": 6,
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"tagged_kc_ids": ["f6819af352d4394d53f814610dc4dca6", "0e241d40ba4063dfd8945c6ba11a1380", "d8ea4af755d136124e61f939e84a673d", "8732721164c1b018aeefdddf53a79498", "9f724dd75011977323c2f2d12a3d74a5"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"num_tap_distractors": 4,
+				"num_correct_answer_tokens": 6
+			},
+			"highlight": [],
+			"sentence": "Saya minum susu, kamu minum air.",
+			"solution_key": "ebde4eb137b98e1ce67b04a48238581c",
+			"source_language": "id",
+			"target_language": "en",
+			"tokens": ["I", "drink", "milk", "you", "drink", "water"],
+			"translation": "I drink milk, you drink water.",
+			"wrong_tokens": ["to", "have", "eat", "apple"],
+			"text": "Saya minum susu, kamu minum air.",
+			"specific_type": "tap",
+			"lexeme_ids_to_update": ["f6819af352d4394d53f814610dc4dca6", "0e241d40ba4063dfd8945c6ba11a1380", "d8ea4af755d136124e61f939e84a673d", "8732721164c1b018aeefdddf53a79498", "0e241d40ba4063dfd8945c6ba11a1380", "9f724dd75011977323c2f2d12a3d74a5"],
+			"type": "translate",
+			"lexemes_to_update": ["f6819af352d4394d53f814610dc4dca6", "0e241d40ba4063dfd8945c6ba11a1380", "d8ea4af755d136124e61f939e84a673d", "8732721164c1b018aeefdddf53a79498", "9f724dd75011977323c2f2d12a3d74a5"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"sentenceDiscussionId": "ebde4eb137b98e1ce67b04a48238581c",
+		"challengeGeneratorIdentifier": {
+			"specificType": "tap",
+			"generatorId": "ebde4eb137b98e1ce67b04a48238581c"
+		},
+		"worldCharacterShown": true,
+		"timeTaken": 4261,
+		"correct": true,
+		"guess": "I drink milk you drink water"
+	}, {
+		"prompt": "Saya suka susu.",
+		"correctSolutions": ["I like milk."],
+		"compactTranslations": ["I like milk.", "I [like/liked/love/loved] milk."],
+		"correctTokens": ["I", "like", "milk"],
+		"wrongTokens": ["apple", "that", "orange", "The"],
+		"choices": [{
+			"text": "I"
+		}, {
+			"text": "like"
+		}, {
+			"text": "milk"
+		}, {
+			"text": "apple"
+		}, {
+			"text": "that"
+		}, {
+			"text": "orange"
+		}, {
+			"text": "The"
+		}],
+		"correctIndices": [0, 1, 2],
+		"sourceLanguage": "id",
+		"targetLanguage": "en",
+		"taggedKcIds": [{
+			"legacyId": "f6819af352d4394d53f814610dc4dca6",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "b1750c938d08ca06b1e4284f742bdfeb",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "d8ea4af755d136124e61f939e84a673d",
+			"kcTypeStr": "lex"
+		}],
+		"tokens": [{
+			"value": "Saya",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/a8a0a3a821cbc9873d17630c63be9911",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "I"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "me"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "my"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "suka",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/1c630da23a7c994dbfacdf7785e7aae2",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "like"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "liked"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "love"
+					}]
+				]
+			}
+		}, {
+			"value": " "
+		}, {
+			"value": "susu",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/66a837050c4ac77fedf0eda5f67b9562",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "milk"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "the milk"
+					}]
+				]
+			}
+		}, {
+			"value": "."
+		}],
+		"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/b6a2bc655229c8e61d235396768210b6",
+		"character": {
+			"url": "https://d2pur3iezf4d1j.cloudfront.net/images/61e19bb4a1ff1d94e58d58b33db58c36",
+			"image": {
+				"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/61e19bb4a1ff1d94e58d58b33db58c36",
+				"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/52a5a774c4de18f4a4e8c91d91788347"
+			},
+			"gender": "MALE",
+			"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Dan_CORRECT_Cropped.json",
+			"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Dan_INCORRECT_Cropped.json",
+			"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Vikram_IDLE_Cropped.json",
+			"name": "Vikram",
+			"riveAnimation": {
+				"artBoardName": "Character",
+				"correctStateName": "Correct",
+				"incorrectStateName": "Incorrect",
+				"notSetStateName": "Reset",
+				"outfitInputName": "Outfit",
+				"stateMachineName": "InLesson",
+				"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/0ad34fbb6e36a62b2db79a45c8ce99c5.riv"
+			}
+		},
+		"type": "translate",
+		"id": "b06dd119964247afb463d042791b49a0",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"grading_graph_size": 728,
+			"birdbrain_target": 0.95,
+			"num_tap_distractors": 4,
+			"birdbrain_source": "birdbrain_v2",
+			"num_correct_answer_tokens": 3,
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"birdbrain_probability": 0.95117486,
+			"content_length": 15,
+			"tagged_kc_ids": ["f6819af352d4394d53f814610dc4dca6", "b1750c938d08ca06b1e4284f742bdfeb", "d8ea4af755d136124e61f939e84a673d"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"birdbrain_probability": 0.95117486,
+				"birdbrain_target": 0.95,
+				"birdbrain_source": "birdbrain_v2",
+				"num_tap_distractors": 4,
+				"content_length": 15,
+				"num_correct_answer_tokens": 3
+			},
+			"highlight": [],
+			"sentence": "Saya suka susu.",
+			"solution_key": "f752fd0ba8150c1c166bf6ec8c11312e",
+			"source_language": "id",
+			"target_language": "en",
+			"tokens": ["I", "like", "milk"],
+			"translation": "I like milk.",
+			"wrong_tokens": ["apple", "that", "orange", "The"],
+			"text": "Saya suka susu.",
+			"specific_type": "tap",
+			"lexeme_ids_to_update": ["f6819af352d4394d53f814610dc4dca6", "b1750c938d08ca06b1e4284f742bdfeb", "d8ea4af755d136124e61f939e84a673d"],
+			"type": "translate",
+			"lexemes_to_update": ["f6819af352d4394d53f814610dc4dca6", "b1750c938d08ca06b1e4284f742bdfeb", "d8ea4af755d136124e61f939e84a673d"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"sentenceDiscussionId": "f752fd0ba8150c1c166bf6ec8c11312e",
+		"challengeGeneratorIdentifier": {
+			"specificType": "tap",
+			"generatorId": "f752fd0ba8150c1c166bf6ec8c11312e"
+		},
+		"worldCharacterShown": true,
+		"timeTaken": 3322,
+		"correct": true,
+		"guess": "I like milk"
+	}, {
+		"prompt": "Hitam, merah.",
+		"correctSolutions": ["Black, red."],
+		"compactTranslations": ["Black, red."],
+		"correctTokens": ["Black", "red"],
+		"wrongTokens": ["drinks", "water", "I", "eats"],
+		"choices": [{
+			"text": "Black"
+		}, {
+			"text": "red"
+		}, {
+			"text": "drinks"
+		}, {
+			"text": "water"
+		}, {
+			"text": "I"
+		}, {
+			"text": "eats"
+		}],
+		"correctIndices": [0, 1],
+		"sourceLanguage": "id",
+		"targetLanguage": "en",
+		"taggedKcIds": [{
+			"legacyId": "e8dcf52d441912d0f1f6a4b154f27934",
+			"kcTypeStr": "lex"
+		}, {
+			"legacyId": "f7afeeb24e1d10605fcd27618d60c19c",
+			"kcTypeStr": "lex"
+		}],
+		"tokens": [{
+			"value": "Hitam",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/1a2e4c85ab3216ec56435746200e4ce7",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "black"
+					}],
+					[{
+						"colspan": 1,
+						"hint": "are black"
+					}]
+				]
+			}
+		}, {
+			"value": ","
+		}, {
+			"value": " "
+		}, {
+			"value": "merah",
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/4aeac0a7de8865cea402f48ed2b51c44",
+			"hintTable": {
+				"headers": [],
+				"rows": [
+					[{
+						"colspan": 1,
+						"hint": "red"
+					}]
+				]
+			}
+		}, {
+			"value": "."
+		}],
+		"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/c71c414c7be366c6607a98cdc9c8f6d5",
+		"character": {
+			"url": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+			"image": {
+				"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+				"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
+			},
+			"gender": "MALE",
+			"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_CORRECT_Cropped_Cheer.json",
+			"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_INCORRECT_Cropped.json",
+			"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_IDLE_Cropped.json",
+			"name": "Eddy",
+			"riveAnimation": {
+				"artBoardName": "Character",
+				"correctStateName": "Correct",
+				"incorrectStateName": "Incorrect",
+				"notSetStateName": "Reset",
+				"outfitInputName": "Outfit",
+				"stateMachineName": "InLesson",
+				"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/6a8a02dccb502b2de80f8e0040de19bb.riv"
+			}
+		},
+		"type": "translate",
+		"id": "2d554605f3ed47b0a47c449fd9e65067",
+		"challengeResponseTrackingProperties": {
+			"level_session_index": 4,
+			"grading_graph_size": 207,
+			"num_tap_distractors": 4,
+			"num_correct_answer_tokens": 2,
+			"generation_timestamp": 1673266806040,
+			"is_v2": true,
+			"tagged_kc_ids": ["e8dcf52d441912d0f1f6a4b154f27934", "f7afeeb24e1d10605fcd27618d60c19c"]
+		},
+		"metadata": {
+			"challenge_construction_insights": {
+				"num_tap_distractors": 4,
+				"num_correct_answer_tokens": 2
+			},
+			"highlight": [],
+			"sentence": "Hitam, merah.",
+			"solution_key": "76de7131c66350ea0a59a0060e77ed03",
+			"source_language": "id",
+			"target_language": "en",
+			"tokens": ["Black", "red"],
+			"translation": "Black, red.",
+			"wrong_tokens": ["drinks", "water", "I", "eats"],
+			"text": "Hitam, merah.",
+			"specific_type": "tap",
+			"lexeme_ids_to_update": ["e8dcf52d441912d0f1f6a4b154f27934", "f7afeeb24e1d10605fcd27618d60c19c"],
+			"type": "translate",
+			"lexemes_to_update": ["e8dcf52d441912d0f1f6a4b154f27934", "f7afeeb24e1d10605fcd27618d60c19c"],
+			"generic_lexeme_map": {},
+			"num_comments": 0,
+			"learning_language": "id",
+			"from_language": "en"
+		},
+		"newWords": [],
+		"progressUpdates": [],
+		"sentenceDiscussionId": "76de7131c66350ea0a59a0060e77ed03",
+		"challengeGeneratorIdentifier": {
+			"specificType": "tap",
+			"generatorId": "76de7131c66350ea0a59a0060e77ed03"
+		},
+		"worldCharacterShown": true,
+		"timeTaken": 2989,
+		"correct": true,
+		"guess": "Black red"
+	}],
+	"mistakesReplacementChallenges": [],
+	"adaptiveInterleavedChallenges": {
+		"challenges": [{
+			"prompt": "Saya makan.",
+			"correctSolutions": ["I eat."],
+			"compactTranslations": ["I eat.", "I ate.", "I [am/was] eating."],
+			"correctTokens": ["I", "eat"],
+			"wrongTokens": ["like", "want", "orange", "apples"],
+			"choices": [{
+				"text": "I"
+			}, {
+				"text": "eat"
+			}, {
+				"text": "like"
+			}, {
+				"text": "want"
+			}, {
+				"text": "orange"
+			}, {
+				"text": "apples"
+			}],
+			"correctIndices": [0, 1],
+			"sourceLanguage": "id",
+			"targetLanguage": "en",
+			"grader": {
+				"version": 0,
+				"vertices": [
+					[{
+						"to": 1,
+						"lenient": ""
+					}],
+					[{
+						"to": 2,
+						"lenient": "i",
+						"orig": "I"
+					}, {
+						"to": 2,
+						"lenient": "ı"
+					}, {
+						"to": 2,
+						"lenient": "i̇",
+						"orig": "İ"
+					}, {
+						"to": 2,
+						"lenient": "i̇"
+					}, {
+						"to": 4,
+						"lenient": "i",
+						"orig": "I"
+					}, {
+						"to": 4,
+						"lenient": "ı"
+					}, {
+						"to": 4,
+						"lenient": "i̇",
+						"orig": "İ"
+					}, {
+						"to": 4,
+						"lenient": "i̇"
+					}, {
+						"to": 6,
+						"lenient": "i",
+						"orig": "I"
+					}, {
+						"to": 6,
+						"lenient": "ı"
+					}, {
+						"to": 6,
+						"lenient": "i̇",
+						"orig": "İ"
+					}, {
+						"to": 6,
+						"lenient": "i̇"
+					}, {
+						"to": 8,
+						"lenient": "i'm",
+						"auto": true,
+						"orig": "I'm"
+					}, {
+						"to": 8,
+						"lenient": "i̇'m"
+					}, {
+						"to": 8,
+						"lenient": "i̇'m",
+						"orig": "İ'm"
+					}, {
+						"to": 8,
+						"lenient": "i'm",
+						"orig": "i’m"
+					}, {
+						"to": 8,
+						"lenient": "i̇'m",
+						"orig": "i̇’m"
+					}, {
+						"to": 8,
+						"lenient": "ı'm",
+						"orig": "ı’m"
+					}, {
+						"to": 8,
+						"lenient": "i'm",
+						"orig": "I’m"
+					}, {
+						"to": 8,
+						"lenient": "ı'm"
+					}, {
+						"to": 8,
+						"lenient": "im",
+						"orig": "Im"
+					}, {
+						"to": 8,
+						"lenient": "i̇'m",
+						"orig": "İ’m"
+					}, {
+						"to": 10,
+						"lenient": "i'",
+						"auto": true,
+						"orig": "I'"
+					}, {
+						"to": 10,
+						"lenient": "i'",
+						"orig": "I’"
+					}, {
+						"to": 10,
+						"lenient": "i̇'",
+						"orig": "İ'"
+					}, {
+						"to": 10,
+						"lenient": "i̇'",
+						"orig": "İ’"
+					}, {
+						"auto": true,
+						"to": 12,
+						"lenient": "i",
+						"orig": "I",
+						"type": "typo"
+					}, {
+						"to": 12,
+						"lenient": "i̇",
+						"orig": "İ"
+					}],
+					[{
+						"to": 3,
+						"lenient": " "
+					}],
+					[{
+						"to": 14,
+						"lenient": "eat",
+						"orig": "eat."
+					}],
+					[{
+						"to": 5,
+						"lenient": " "
+					}],
+					[{
+						"to": 14,
+						"lenient": "ate",
+						"orig": "ate."
+					}],
+					[{
+						"to": 7,
+						"lenient": " "
+					}],
+					[{
+						"to": 8,
+						"lenient": "am"
+					}, {
+						"to": 8,
+						"lenient": "was"
+					}],
+					[{
+						"to": 9,
+						"lenient": " "
+					}],
+					[{
+						"to": 14,
+						"lenient": "eating",
+						"orig": "eating."
+					}, {
+						"to": 14,
+						"lenient": "eati̇ng"
+					}, {
+						"to": 14,
+						"lenient": "eatıng",
+						"orig": "eatıng."
+					}, {
+						"to": 14,
+						"lenient": "eatıng"
+					}, {
+						"to": 14,
+						"lenient": "eati̇ng",
+						"orig": "eati̇ng."
+					}],
+					[{
+						"to": 11,
+						"lenient": " "
+					}],
+					[{
+						"to": 8,
+						"lenient": "m",
+						"auto": true
+					}],
+					[{
+						"to": 13,
+						"lenient": " "
+					}],
+					[{
+						"to": 8,
+						"lenient": "m",
+						"type": "typo",
+						"auto": true
+					}],
+					[]
+				],
+				"language": "en",
+				"whitespaceDelimited": true
+			},
+			"taggedKcIds": [{
+				"legacyId": "f6819af352d4394d53f814610dc4dca6",
+				"kcTypeStr": "lex"
+			}, {
+				"legacyId": "73a866bd4f1e664f0642a530a1eb303d",
+				"kcTypeStr": "lex"
+			}],
+			"tokens": [{
+				"value": "Saya",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/9c79053b2961253ee816a91b7ec15477",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "I"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "me"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "my"
+						}]
+					]
+				}
+			}, {
+				"value": " "
+			}, {
+				"value": "makan",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/368bfd1e392352d44835353cf137eda2",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "eat"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "am eating"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "ate"
+						}]
+					]
+				}
+			}, {
+				"value": "."
+			}],
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/073b724c985f767bb2e3767ec860704b",
+			"character": {
+				"url": "https://d2pur3iezf4d1j.cloudfront.net/images/122480f3b6c86522d5715c920764dc44",
+				"image": {
+					"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/122480f3b6c86522d5715c920764dc44",
+					"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/ad178aebb8dfd890ab602527440e685c"
+				},
+				"gender": "FEMALE",
+				"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Gma_CORRECT_Cropped.json",
+				"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Gma_INCORRECT_Cropped.json",
+				"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lucy_IDLE_Cropped.json",
+				"name": "Lucy",
+				"riveAnimation": {
+					"artBoardName": "Character",
+					"correctStateName": "Correct",
+					"incorrectStateName": "Incorrect",
+					"notSetStateName": "Reset",
+					"outfitInputName": "Outfit",
+					"stateMachineName": "InLesson",
+					"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/9dc14f11adf2a069f365a9c2715b4b72.riv"
+				}
+			},
+			"type": "translate",
+			"id": "974dc416ccc54d5d854ec3bf402ba9a4",
+			"challengeResponseTrackingProperties": {
+				"level_session_index": 4,
+				"grading_graph_size": 1706,
+				"num_tap_distractors": 4,
+				"num_correct_answer_tokens": 2,
+				"generation_timestamp": 1673266806040,
+				"is_v2": true,
+				"tagged_kc_ids": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"]
+			},
+			"metadata": {
+				"challenge_construction_insights": {
+					"num_tap_distractors": 4,
+					"num_correct_answer_tokens": 2
+				},
+				"highlight": [],
+				"sentence": "Saya makan.",
+				"solution_key": "76602fda62f57269c0bb4975f6adf17e",
+				"source_language": "id",
+				"target_language": "en",
+				"tokens": ["I", "eat"],
+				"translation": "I eat.",
+				"wrong_tokens": ["like", "want", "orange", "apples"],
+				"text": "Saya makan.",
+				"specific_type": "tap",
+				"lexeme_ids_to_update": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"],
+				"type": "translate",
+				"lexemes_to_update": ["f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d"],
+				"generic_lexeme_map": {},
+				"num_comments": 0,
+				"learning_language": "id",
+				"from_language": "en"
+			},
+			"newWords": [],
+			"progressUpdates": [],
+			"sentenceDiscussionId": "76602fda62f57269c0bb4975f6adf17e",
+			"challengeGeneratorIdentifier": {
+				"specificType": "tap",
+				"generatorId": "76602fda62f57269c0bb4975f6adf17e"
+			}
+		}, {
+			"prompt": "Saya minum susu, kamu minum air.",
+			"correctSolutions": ["I drink milk, you drink water."],
+			"compactTranslations": ["I drink milk, you drink water.", "I [drink/drank/am drinking] [/a] milk, you [drink/drank/are drinking] [/a] water."],
+			"correctTokens": ["I", "drink", "milk", "you", "drink", "water"],
+			"wrongTokens": ["to", "have", "eat", "apple"],
+			"choices": [{
+				"text": "I"
+			}, {
+				"text": "drink"
+			}, {
+				"text": "milk"
+			}, {
+				"text": "you"
+			}, {
+				"text": "drink"
+			}, {
+				"text": "water"
+			}, {
+				"text": "to"
+			}, {
+				"text": "have"
+			}, {
+				"text": "eat"
+			}, {
+				"text": "apple"
+			}],
+			"correctIndices": [0, 1, 2, 3, 4, 5],
+			"sourceLanguage": "id",
+			"targetLanguage": "en",
+			"grader": {
+				"version": 0,
+				"vertices": [
+					[{
+						"to": 1,
+						"lenient": ""
+					}],
+					[{
+						"to": 2,
+						"lenient": "i",
+						"orig": "I"
+					}, {
+						"to": 2,
+						"lenient": "ı"
+					}, {
+						"to": 2,
+						"lenient": "i̇",
+						"orig": "İ"
+					}, {
+						"to": 2,
+						"lenient": "i̇"
+					}, {
+						"to": 4,
+						"lenient": "i'm",
+						"auto": true,
+						"orig": "I'm"
+					}, {
+						"to": 4,
+						"lenient": "i̇'m"
+					}, {
+						"to": 4,
+						"lenient": "i̇'m",
+						"orig": "İ'm"
+					}, {
+						"to": 4,
+						"lenient": "i'm",
+						"orig": "i’m"
+					}, {
+						"to": 4,
+						"lenient": "i̇'m",
+						"orig": "i̇’m"
+					}, {
+						"to": 4,
+						"lenient": "ı'm",
+						"orig": "ı’m"
+					}, {
+						"to": 4,
+						"lenient": "i'm",
+						"orig": "I’m"
+					}, {
+						"to": 4,
+						"lenient": "ı'm"
+					}, {
+						"to": 4,
+						"lenient": "im",
+						"orig": "Im"
+					}, {
+						"to": 4,
+						"lenient": "i̇'m",
+						"orig": "İ’m"
+					}, {
+						"to": 24,
+						"lenient": "i'",
+						"auto": true,
+						"orig": "I'"
+					}, {
+						"to": 24,
+						"lenient": "i'",
+						"orig": "I’"
+					}, {
+						"to": 24,
+						"lenient": "i̇'",
+						"orig": "İ'"
+					}, {
+						"to": 24,
+						"lenient": "i̇'",
+						"orig": "İ’"
+					}, {
+						"auto": true,
+						"to": 26,
+						"lenient": "i",
+						"orig": "I",
+						"type": "typo"
+					}, {
+						"to": 26,
+						"lenient": "i̇",
+						"orig": "İ"
+					}],
+					[{
+						"to": 3,
+						"lenient": " "
+					}],
+					[{
+						"to": 4,
+						"lenient": "am"
+					}, {
+						"to": 6,
+						"lenient": "drank"
+					}, {
+						"to": 6,
+						"lenient": "drink"
+					}, {
+						"to": 6,
+						"lenient": "dri̇nk"
+					}, {
+						"to": 6,
+						"lenient": "drınk"
+					}],
+					[{
+						"to": 5,
+						"lenient": " "
+					}],
+					[{
+						"to": 6,
+						"lenient": "drinking"
+					}, {
+						"to": 6,
+						"lenient": "drinki̇ng"
+					}, {
+						"to": 6,
+						"lenient": "drınki̇ng"
+					}, {
+						"to": 6,
+						"lenient": "drinkıng"
+					}, {
+						"to": 6,
+						"lenient": "dri̇nking"
+					}, {
+						"to": 6,
+						"lenient": "dri̇nki̇ng"
+					}, {
+						"to": 6,
+						"lenient": "drınking"
+					}, {
+						"to": 6,
+						"lenient": "dri̇nkıng"
+					}, {
+						"to": 6,
+						"lenient": "drınkıng"
+					}],
+					[{
+						"to": 7,
+						"lenient": " "
+					}],
+					[{
+						"to": 8,
+						"lenient": ""
+					}, {
+						"to": 23,
+						"lenient": "a"
+					}, {
+						"to": 23,
+						"lenient": "an",
+						"type": "typo",
+						"orig": "a"
+					}],
+					[{
+						"to": 9,
+						"lenient": "milk",
+						"orig": "milk,"
+					}, {
+						"to": 9,
+						"lenient": "mılk",
+						"orig": "mılk,"
+					}, {
+						"weight": 1e-12,
+						"to": 9,
+						"lenient": "milk",
+						"orig": "mılk,",
+						"type": "accent"
+					}, {
+						"to": 9,
+						"lenient": "mi̇lk",
+						"orig": "mi̇lk,"
+					}, {
+						"to": 9,
+						"lenient": "mılk"
+					}, {
+						"to": 9,
+						"lenient": "mi̇lk"
+					}],
+					[{
+						"to": 10,
+						"lenient": " "
+					}],
+					[{
+						"to": 11,
+						"lenient": "you"
+					}, {
+						"to": 13,
+						"lenient": "you're",
+						"auto": true
+					}, {
+						"to": 13,
+						"lenient": "you're",
+						"orig": "you’re"
+					}, {
+						"to": 19,
+						"lenient": "you'",
+						"auto": true
+					}, {
+						"to": 19,
+						"lenient": "you'",
+						"orig": "you’"
+					}, {
+						"to": 21,
+						"lenient": "you",
+						"type": "typo",
+						"auto": true
+					}],
+					[{
+						"to": 12,
+						"lenient": " "
+					}],
+					[{
+						"to": 13,
+						"lenient": "are"
+					}, {
+						"to": 15,
+						"lenient": "drank"
+					}, {
+						"to": 15,
+						"lenient": "drink"
+					}, {
+						"to": 15,
+						"lenient": "dri̇nk"
+					}, {
+						"to": 15,
+						"lenient": "drınk"
+					}],
+					[{
+						"to": 14,
+						"lenient": " "
+					}],
+					[{
+						"to": 15,
+						"lenient": "drinking"
+					}, {
+						"to": 15,
+						"lenient": "drinki̇ng"
+					}, {
+						"to": 15,
+						"lenient": "drınki̇ng"
+					}, {
+						"to": 15,
+						"lenient": "drinkıng"
+					}, {
+						"to": 15,
+						"lenient": "dri̇nking"
+					}, {
+						"to": 15,
+						"lenient": "dri̇nki̇ng"
+					}, {
+						"to": 15,
+						"lenient": "drınking"
+					}, {
+						"to": 15,
+						"lenient": "dri̇nkıng"
+					}, {
+						"to": 15,
+						"lenient": "drınkıng"
+					}],
+					[{
+						"to": 16,
+						"lenient": " "
+					}],
+					[{
+						"to": 17,
+						"lenient": ""
+					}, {
+						"to": 18,
+						"lenient": "a"
+					}, {
+						"to": 18,
+						"lenient": "an",
+						"type": "typo",
+						"orig": "a"
+					}],
+					[{
+						"to": 28,
+						"lenient": "water",
+						"orig": "water."
+					}],
+					[{
+						"to": 17,
+						"lenient": " "
+					}],
+					[{
+						"to": 20,
+						"lenient": " "
+					}],
+					[{
+						"to": 13,
+						"lenient": "re",
+						"auto": true
+					}],
+					[{
+						"to": 22,
+						"lenient": " "
+					}],
+					[{
+						"to": 13,
+						"lenient": "re",
+						"type": "typo",
+						"auto": true
+					}],
+					[{
+						"to": 8,
+						"lenient": " "
+					}],
+					[{
+						"to": 25,
+						"lenient": " "
+					}],
+					[{
+						"to": 4,
+						"lenient": "m",
+						"auto": true
+					}],
+					[{
+						"to": 27,
+						"lenient": " "
+					}],
+					[{
+						"to": 4,
+						"lenient": "m",
+						"type": "typo",
+						"auto": true
+					}],
+					[]
+				],
+				"language": "en",
+				"whitespaceDelimited": true
+			},
+			"taggedKcIds": [{
+				"legacyId": "f6819af352d4394d53f814610dc4dca6",
+				"kcTypeStr": "lex"
+			}, {
+				"legacyId": "0e241d40ba4063dfd8945c6ba11a1380",
+				"kcTypeStr": "lex"
+			}, {
+				"legacyId": "d8ea4af755d136124e61f939e84a673d",
+				"kcTypeStr": "lex"
+			}, {
+				"legacyId": "8732721164c1b018aeefdddf53a79498",
+				"kcTypeStr": "lex"
+			}, {
+				"legacyId": "0e241d40ba4063dfd8945c6ba11a1380",
+				"kcTypeStr": "lex"
+			}, {
+				"legacyId": "9f724dd75011977323c2f2d12a3d74a5",
+				"kcTypeStr": "lex"
+			}],
+			"tokens": [{
+				"value": "Saya",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/9c79053b2961253ee816a91b7ec15477",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "I"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "me"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "my"
+						}]
+					]
+				}
+			}, {
+				"value": " "
+			}, {
+				"value": "minum",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/4fc4436a75d1f9029c4094a2bcd5e4ac",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "drink"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "to drink"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "have a drink"
+						}]
+					]
+				}
+			}, {
+				"value": " "
+			}, {
+				"value": "susu",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/88c3ca3e5d67376f183f5b8f5c42dd8c",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "milk"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "the milk"
+						}]
+					]
+				}
+			}, {
+				"value": ","
+			}, {
+				"value": " "
+			}, {
+				"value": "kamu",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/139429063305e3c712d82b7f08136fac",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "you"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "your"
+						}]
+					]
+				}
+			}, {
+				"value": " "
+			}, {
+				"value": "minum",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/4fc4436a75d1f9029c4094a2bcd5e4ac",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "drink"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "to drink"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "have a drink"
+						}]
+					]
+				}
+			}, {
+				"value": " "
+			}, {
+				"value": "air",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/221bf65180d6a8fe1054c2e61cb11b94",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "water"
+						}]
+					]
+				}
+			}, {
+				"value": "."
+			}],
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/eka/26f70c00b0c90e5003d2fef2d5d620fa",
+			"character": {
+				"url": "https://d2pur3iezf4d1j.cloudfront.net/images/861252b26a49194f2a98ee58e7c373f8",
+				"image": {
+					"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/861252b26a49194f2a98ee58e7c373f8",
+					"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/81ca92172d70599306b16bcb87799195"
+				},
+				"gender": "FEMALE",
+				"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Violet_CORRECT_Cropped.json",
+				"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Violet_INCORRECT_Cropped.json",
+				"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lily_IDLE_Cropped.json",
+				"name": "Lily",
+				"riveAnimation": {
+					"artBoardName": "Character",
+					"correctStateName": "Correct",
+					"incorrectStateName": "Incorrect",
+					"notSetStateName": "Reset",
+					"outfitInputName": "Outfit",
+					"stateMachineName": "InLesson",
+					"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/1bcefa41b531daf332554882d1fa6adc.riv"
+				}
+			},
+			"type": "translate",
+			"id": "6c3c867c1d444cf9a1695a0e6097bb35",
+			"challengeResponseTrackingProperties": {
+				"level_session_index": 4,
+				"grading_graph_size": 3019,
+				"num_tap_distractors": 4,
+				"num_correct_answer_tokens": 6,
+				"generation_timestamp": 1673266806040,
+				"is_v2": true,
+				"tagged_kc_ids": ["f6819af352d4394d53f814610dc4dca6", "0e241d40ba4063dfd8945c6ba11a1380", "d8ea4af755d136124e61f939e84a673d", "8732721164c1b018aeefdddf53a79498", "9f724dd75011977323c2f2d12a3d74a5"]
+			},
+			"metadata": {
+				"challenge_construction_insights": {
+					"num_tap_distractors": 4,
+					"num_correct_answer_tokens": 6
+				},
+				"highlight": [],
+				"sentence": "Saya minum susu, kamu minum air.",
+				"solution_key": "ebde4eb137b98e1ce67b04a48238581c",
+				"source_language": "id",
+				"target_language": "en",
+				"tokens": ["I", "drink", "milk", "you", "drink", "water"],
+				"translation": "I drink milk, you drink water.",
+				"wrong_tokens": ["to", "have", "eat", "apple"],
+				"text": "Saya minum susu, kamu minum air.",
+				"specific_type": "tap",
+				"lexeme_ids_to_update": ["f6819af352d4394d53f814610dc4dca6", "0e241d40ba4063dfd8945c6ba11a1380", "d8ea4af755d136124e61f939e84a673d", "8732721164c1b018aeefdddf53a79498", "0e241d40ba4063dfd8945c6ba11a1380", "9f724dd75011977323c2f2d12a3d74a5"],
+				"type": "translate",
+				"lexemes_to_update": ["f6819af352d4394d53f814610dc4dca6", "0e241d40ba4063dfd8945c6ba11a1380", "d8ea4af755d136124e61f939e84a673d", "8732721164c1b018aeefdddf53a79498", "9f724dd75011977323c2f2d12a3d74a5"],
+				"generic_lexeme_map": {},
+				"num_comments": 0,
+				"learning_language": "id",
+				"from_language": "en"
+			},
+			"newWords": [],
+			"progressUpdates": [],
+			"sentenceDiscussionId": "ebde4eb137b98e1ce67b04a48238581c",
+			"challengeGeneratorIdentifier": {
+				"specificType": "tap",
+				"generatorId": "ebde4eb137b98e1ce67b04a48238581c"
+			}
+		}, {
+			"prompt": "Hitam, merah.",
+			"correctSolutions": ["Black, red."],
+			"compactTranslations": ["Black, red."],
+			"correctTokens": ["Black", "red"],
+			"wrongTokens": ["drinks", "water", "I", "eats"],
+			"choices": [{
+				"text": "Black"
+			}, {
+				"text": "red"
+			}, {
+				"text": "drinks"
+			}, {
+				"text": "water"
+			}, {
+				"text": "I"
+			}, {
+				"text": "eats"
+			}],
+			"correctIndices": [0, 1],
+			"sourceLanguage": "id",
+			"targetLanguage": "en",
+			"grader": {
+				"version": 0,
+				"vertices": [
+					[{
+						"to": 1,
+						"lenient": ""
+					}],
+					[{
+						"to": 2,
+						"lenient": "black",
+						"orig": "Black,"
+					}],
+					[{
+						"to": 3,
+						"lenient": " "
+					}],
+					[{
+						"to": 4,
+						"lenient": "red",
+						"orig": "red."
+					}],
+					[]
+				],
+				"language": "en",
+				"whitespaceDelimited": true
+			},
+			"taggedKcIds": [{
+				"legacyId": "e8dcf52d441912d0f1f6a4b154f27934",
+				"kcTypeStr": "lex"
+			}, {
+				"legacyId": "f7afeeb24e1d10605fcd27618d60c19c",
+				"kcTypeStr": "lex"
+			}],
+			"tokens": [{
+				"value": "Hitam",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/1a2e4c85ab3216ec56435746200e4ce7",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "black"
+						}],
+						[{
+							"colspan": 1,
+							"hint": "are black"
+						}]
+					]
+				}
+			}, {
+				"value": ","
+			}, {
+				"value": " "
+			}, {
+				"value": "merah",
+				"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/4aeac0a7de8865cea402f48ed2b51c44",
+				"hintTable": {
+					"headers": [],
+					"rows": [
+						[{
+							"colspan": 1,
+							"hint": "red"
+						}]
+					]
+				}
+			}, {
+				"value": "."
+			}],
+			"tts": "https://d1vq87e9lcf771.cloudfront.net/ade/c71c414c7be366c6607a98cdc9c8f6d5",
+			"character": {
+				"url": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+				"image": {
+					"pdf": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+					"svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
+				},
+				"gender": "MALE",
+				"correctAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_CORRECT_Cropped_Cheer.json",
+				"incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_INCORRECT_Cropped.json",
+				"idleAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_IDLE_Cropped.json",
+				"name": "Eddy",
+				"riveAnimation": {
+					"artBoardName": "Character",
+					"correctStateName": "Correct",
+					"incorrectStateName": "Incorrect",
+					"notSetStateName": "Reset",
+					"outfitInputName": "Outfit",
+					"stateMachineName": "InLesson",
+					"url": "https://d35aaqx5ub95lt.cloudfront.net/rive/6a8a02dccb502b2de80f8e0040de19bb.riv"
+				}
+			},
+			"type": "translate",
+			"id": "2d554605f3ed47b0a47c449fd9e65067",
+			"challengeResponseTrackingProperties": {
+				"level_session_index": 4,
+				"grading_graph_size": 207,
+				"num_tap_distractors": 4,
+				"num_correct_answer_tokens": 2,
+				"generation_timestamp": 1673266806040,
+				"is_v2": true,
+				"tagged_kc_ids": ["e8dcf52d441912d0f1f6a4b154f27934", "f7afeeb24e1d10605fcd27618d60c19c"]
+			},
+			"metadata": {
+				"challenge_construction_insights": {
+					"num_tap_distractors": 4,
+					"num_correct_answer_tokens": 2
+				},
+				"highlight": [],
+				"sentence": "Hitam, merah.",
+				"solution_key": "76de7131c66350ea0a59a0060e77ed03",
+				"source_language": "id",
+				"target_language": "en",
+				"tokens": ["Black", "red"],
+				"translation": "Black, red.",
+				"wrong_tokens": ["drinks", "water", "I", "eats"],
+				"text": "Hitam, merah.",
+				"specific_type": "tap",
+				"lexeme_ids_to_update": ["e8dcf52d441912d0f1f6a4b154f27934", "f7afeeb24e1d10605fcd27618d60c19c"],
+				"type": "translate",
+				"lexemes_to_update": ["e8dcf52d441912d0f1f6a4b154f27934", "f7afeeb24e1d10605fcd27618d60c19c"],
+				"generic_lexeme_map": {},
+				"num_comments": 0,
+				"learning_language": "id",
+				"from_language": "en"
+			},
+			"newWords": [],
+			"progressUpdates": [],
+			"sentenceDiscussionId": "76de7131c66350ea0a59a0060e77ed03",
+			"challengeGeneratorIdentifier": {
+				"specificType": "tap",
+				"generatorId": "76de7131c66350ea0a59a0060e77ed03"
+			}
+		}],
+		"harderComboConsecutives": 5,
+		"easierComboConsecutives": 1,
+		"harderChallengeReplacementIndices": [null, null, null, null, null, null, null, null, null],
+		"easierChallengeReplacementIndices": [null, null, null, null, null, null, null, null, null],
+		"speakOrListenReplacementIndices": [null, 0, 0, null, null, null, null, 1, null, 2]
+	},
+	"metadata": {
+		"id": "aq5AxEZRTMN0Ws91",
+		"checkpoint_quiz_elements": [],
+		"type": "lexeme_skill_level_practice",
+		"is_speak_and_listen_only": false,
+		"target_lexeme_ids": ["2163279839037ce9c20ad5eeafb358f3", "73a866bd4f1e664f0642a530a1eb303d", "f6819af352d4394d53f814610dc4dca6", "e8dcf52d441912d0f1f6a4b154f27934", "b1750c938d08ca06b1e4284f742bdfeb", "ffd1c18dff303827bb5da81fcddc35c7", "bb08fee5dcef31845e9aa77fbc71734a", "f7afeeb24e1d10605fcd27618d60c19c", "8732721164c1b018aeefdddf53a79498", "02500365c22f8679141e987e027275a8", "9f724dd75011977323c2f2d12a3d74a5", "1d081cc665403ad7dc506f9996b64d6d", "a9d0285cd1631c99b0e93a98f003be39", "5e7ab2125c916688eab3583c7a295a48", "d8ea4af755d136124e61f939e84a673d", "0e241d40ba4063dfd8945c6ba11a1380", "0c1bbaeac12c2aca9d5df37bf24a49ed", "e0153bafefabee09d4eca6e5da227e43", "54a48e05c068c75795ba9eb4fbb5624a"],
+		"teaches_lexeme_ids": ["ffd1c18dff303827bb5da81fcddc35c7", "f6819af352d4394d53f814610dc4dca6", "73a866bd4f1e664f0642a530a1eb303d", "5e7ab2125c916688eab3583c7a295a48", "2163279839037ce9c20ad5eeafb358f3", "9f724dd75011977323c2f2d12a3d74a5", "e0153bafefabee09d4eca6e5da227e43", "54a48e05c068c75795ba9eb4fbb5624a", "8732721164c1b018aeefdddf53a79498", "d8ea4af755d136124e61f939e84a673d", "0e241d40ba4063dfd8945c6ba11a1380", "b1750c938d08ca06b1e4284f742bdfeb", "e8dcf52d441912d0f1f6a4b154f27934", "f7afeeb24e1d10605fcd27618d60c19c"],
+		"kc_strength_model_version": 2,
+		"pass_strength": 3.547230948648531,
+		"min_strength_increment": 0.1,
+		"min_strength_decrement": 0.075,
+		"mixture_models": {
+			"8732721164c1b018aeefdddf53a79498": {},
+			"a9d0285cd1631c99b0e93a98f003be39": {},
+			"54a48e05c068c75795ba9eb4fbb5624a": {},
+			"5e7ab2125c916688eab3583c7a295a48": {},
+			"f7afeeb24e1d10605fcd27618d60c19c": {},
+			"f6819af352d4394d53f814610dc4dca6": {},
+			"02500365c22f8679141e987e027275a8": {},
+			"0c1bbaeac12c2aca9d5df37bf24a49ed": {},
+			"e0153bafefabee09d4eca6e5da227e43": {},
+			"bb08fee5dcef31845e9aa77fbc71734a": {},
+			"9f724dd75011977323c2f2d12a3d74a5": {},
+			"2163279839037ce9c20ad5eeafb358f3": {},
+			"ffd1c18dff303827bb5da81fcddc35c7": {},
+			"1d081cc665403ad7dc506f9996b64d6d": {},
+			"0e241d40ba4063dfd8945c6ba11a1380": {},
+			"d8ea4af755d136124e61f939e84a673d": {},
+			"e8dcf52d441912d0f1f6a4b154f27934": {},
+			"b1750c938d08ca06b1e4284f742bdfeb": {},
+			"73a866bd4f1e664f0642a530a1eb303d": {}
+		},
+		"language": "id",
+		"from_language": "en",
+		"ui_language": "en",
+		"language_string": "Indonesian",
+		"tts_enabled": true,
+		"hints_url": "d2.duolingo.com/api/1/dictionary/hints",
+		"experiments": ["linfra_cds_built_summ_reverse_tap_v1"],
+		"experiments_with_treatment_contexts": {
+			"linfra_cds_built_summ_reverse_tap_v1": ["preFilter"]
+		},
+		"is_restore": false,
+		"session_construction_insights": {
+			"rejected_challenges_info": [],
+			"num_challenges_after_default_quality_score_filtering": 108,
+			"picked_challenges_info": {
+				"challenges": [],
+				"parent_target_kcids": {},
+				"num_challenges": 0
+			}
+		},
+		"is_monolingual": false,
+		"skill_tree_id": "8677ce4f23b780f171f71e22dad001e5",
+		"level_session_index": 4
+	},
+	"ttsAnnotations": {},
+	"trackingProperties": {
+		"percent_target_kc_coverage": 0.7368421052631579,
+		"skill_tree_id": "8677ce4f23b780f171f71e22dad001e5",
+		"data_version": "default",
+		"max_repeated_challenge_type_count": 3,
+		"lexemes_were_reordered": false,
+		"uses_birdbrain_sorting": true,
+		"type": "lexeme_skill_level_practice",
+		"num_challenges_generated": 9,
+		"is_shorter_than_expected": true,
+		"uses_birdbrain_picking": true,
+		"num_challenges_after_failure_rate_filter": 108,
+		"learning_language": "id",
+		"num_challenges_gt_tap": 3,
+		"num_challenges_with_challenge_stats": 0,
+		"max_repeated_challenge_type": "select",
+		"generation_timestamp": 1673266806040,
+		"max_repeated_sentence_count": 1,
+		"max_repeated_challenge_count": 1,
+		"max_repeated_undirected_sentence_count": 1,
+		"sentences_count": 6,
+		"num_challenges_gt": 9,
+		"num_sensitive_content_filtered": 0,
+		"distinct_sentences_count": 6,
+		"num_adaptive_challenges_generated": 0,
+		"num_challenges_gt_listen_tap": 3,
+		"max_repeated_sentence": "f752fd0ba8150c1c166bf6ec8c11312e",
+		"uses_birdbrain": true,
+		"read_from_cache": false,
+		"num_challenges_generated_cefr_level_c2": 0,
+		"num_challenges_generated_cefr_level_c1": 0,
+		"num_adaptive_challenges_gt": 0,
+		"from_language": "en",
+		"sum_content_length": 115,
+		"max_consecutive_challenge_type_count": 1,
+		"expected_length": 17,
+		"offline": false,
+		"num_interleaved_adaptive_challenges_gt": 0,
+		"activity_uuid": "9cb49021-5a24-43e1-918d-f7bb0e33ccd7",
+		"num_sensitivity_labels_of_user": 0,
+		"num_challenges_generated_cefr_level_b1": 0,
+		"avg_content_length": 12.777777777777779,
+		"num_challenges_generated_cefr_level_b2": 0,
+		"generation_app_version": "5.0",
+		"max_consecutive_challenge_type": "select",
+		"max_repeated_undirected_sentence": "f752fd0ba8150c1c166bf6ec8c11312e",
+		"distinct_undirected_sentences_count": 6,
+		"num_challenges_generated_cefr_level_a2": 0,
+		"grading_graph_sizes_sum": 6457,
+		"num_challenges_generated_cefr_level_a1": 0,
+		"num_challenges_generated_cefr_level_intro": 0,
+		"num_challenges_gt_name_example": 3
+	},
+	"sessionStartExperiments": ["linfra_cds_built_summ_reverse_tap_v1"],
+	"levelSessionIndex": 4,
+	"preSessionScreens": [],
+	"challengeTimeTakenCutoff": 60000,
+	"explanations": {},
+	"progressUpdates": [],
+	"isV2": true,
+	"isMonolingual": false,
+	"heartsLeft": 0,
+	"startTime": 1673266808,
+	"enableBonusPoints": true,
+	"endTime": 1673267029,
+	"failed": false,
+	"maxInLessonStreak": 9,
+	"shouldLearnThings": true,
+	"pathLevelSpecifics": {
+		"skillId": "9bed47bf0a11ae48fc67c116d2a9e28e",
+		"crownLevelIndex": 0
+	}
+}
