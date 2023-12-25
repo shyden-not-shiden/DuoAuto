@@ -22,7 +22,7 @@ def login():
         "User-Agent": "Duodroid/5.132.4 Dalvik/2.1.0 (Linux; U; Android 13; sdk_gphone64_x86_64 Build/TE1A.220922.010)"
     }
     body = {
-        "distinctId": "36d8a06d-dd23-41fe-8bc0-11cda3fe126e",
+        "distinctId": f"{uuid.uuid4()}",
         "identifier": f"{USER_EMAIL}",
         "password": f"{USER_PASS}",
     }
