@@ -63,13 +63,15 @@ def get_new_lesson():
     json_response = response.json()
     lesson_id = json_response["id"]
     logger.info(f"Starting lesson with ID: {lesson_id}")
-    start_time = calendar.timegm(time.gmtime())
+    start_time = calendar.timegm(time.gmtime()) + offset
+    logger.info(f"Start Time: {start_time}")
     return lesson_id
 
 
 def complete_lesson(lesson_id):
     global start_time
-    end_time = calendar.timegm(time.gmtime())
+    end_time = calendar.timegm(time.gmtime()) + offset
+    logger.info(f"End Time: {end_time}")
 
     payload = (
         '{"id":"'
@@ -288,15 +290,23 @@ def complete_lesson(lesson_id):
 
 def main():
     lesson_id = get_new_lesson()
-    time.sleep(random.randint(15, 37))
+    wait_time = random.randint(15, 37)
+    logger.info(f"Lesson started, waiting {wait_time} seconds before completing")
+    time.sleep(wait_time)
     complete_lesson(lesson_id)
-    time.sleep(random.randint(3, 10))
+    wait_time = random.randint(3, 10)
+    logger.info(f"Lesson finished, waiting {wait_time} seconds before starting a new lesson")
+    time.sleep(wait_time)
 
 
 if __name__ == "__main__":
+    offset = 0
     logger.info(f"Will attempt to complete {times_to_run} lessons")
     # while times_to_run != 0:
     #     times_to_run -= 1
     #     main()
     while True:
         main()
+        logger.info("previous offset: " + str(offset))
+        # offset = offset - 86400
+        logger.info("new offset: " + str(offset))

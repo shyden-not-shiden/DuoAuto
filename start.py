@@ -1,10 +1,7 @@
 import json
-import os
 import uuid
-from uuid import UUID
 
 import requests
-import dotenv
 
 import settings
 
@@ -26,11 +23,16 @@ def login():
         "identifier": f"{USER_EMAIL}",
         "password": f"{USER_PASS}",
     }
-    response = requests.post(
+    response = session.post(
         headers=headers, params=parameters, url=login_url, data=json.dumps(body)
     )
+    cookies = response.cookies
+    print(cookies)
+    token = response.headers.get("jwt")
+    print(token)
     print(f"User ID: {response.json().get('id')}")
 
 
 if __name__ == "__main__":
+    session = requests.Session()
     login()
