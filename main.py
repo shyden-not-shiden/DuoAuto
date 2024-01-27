@@ -290,11 +290,11 @@ def complete_lesson(lesson_id):
 
 def main():
     lesson_id = get_new_lesson()
-    wait_time = random.randint(15, 37)
+    wait_time = random.randint(15, 25)
     logger.info(f"Lesson started, waiting {wait_time} seconds before completing")
     time.sleep(wait_time)
     complete_lesson(lesson_id)
-    wait_time = random.randint(3, 10)
+    wait_time = random.randint(3, 7)
     logger.info(f"Lesson finished, waiting {wait_time} seconds before starting a new lesson")
     time.sleep(wait_time)
 
@@ -306,7 +306,11 @@ if __name__ == "__main__":
     #     times_to_run -= 1
     #     main()
     while True:
-        main()
+        try:
+            main()
+        except:
+            continue
         logger.info("previous offset: " + str(offset))
-        # offset = offset - 86400
+        offset = offset - 86400
+        # offset = 0
         logger.info("new offset: " + str(offset))
